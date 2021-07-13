@@ -1,1 +1,1 @@
-# Endsars-Sentiment-Analysis
+On october 8, 2020, Protests errupted across Nigeria against police brutality especially from the special anti-robbery squad unit. The protest recieved mixed views from twitter users which amassed millions of tweets to the EndSARS hastag. The purpose of this sentiment analysis is to analyse at least 2000 tweets from October 8 2020 till date. 
